@@ -59,6 +59,10 @@ $light-blue-color: #38aef0;
       &__new{
         font-size: 11px;
       }
+      a{
+        color: $white-color;
+        text-decoration: none;
+      }
     }
   }
 }

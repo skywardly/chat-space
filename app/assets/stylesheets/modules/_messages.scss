@@ -50,6 +50,7 @@ $light-blue-color: #38aef0;
     height: calc(100vh - 100px);
     padding: 20px 20px 0;
     background: #2f3e51;
+    overflow: scroll;
     &__list{
       margin: 0 0 40px;
       &__name{
@@ -112,6 +113,7 @@ $light-blue-color: #38aef0;
     height: calc(100vh - 190px);
     padding: 35px 40px 0;
     background: #fafafa;
+    overflow: scroll;
     &__box{
       &__username{
         float: left;

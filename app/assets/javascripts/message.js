@@ -10,7 +10,7 @@ $(function(){
           ${message.created_at}
         </div>
         <div class="main-chat__message-list__box__text">
-          <p class="message__content">
+          <p class="main-chat__message-list__box__content">
             ${message.content}
           </p>
         </div>
@@ -27,7 +27,7 @@ $(function(){
           ${message.created_at}
         </div>
         <div class="main-chat__message-list__box__text">
-          <p class="message__content">
+          <p class="main-chat__message-list__box__content">
             ${message.content}
           </p>
         </div>
